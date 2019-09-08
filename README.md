@@ -14,7 +14,7 @@ and are thus somewhat suspect. The dataset is small in size with only 506 cases.
 
 # Our Task in this dataset
 
-Data Loading
-Exploratory Data Analysis
-Standardization of data
-Appling PCA
+* Data Loading
+* Exploratory Data Analysis
+* Standardization of data
+* Appling PCA
